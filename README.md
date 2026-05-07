@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=800&lines=DevSecOps+Engineer;Cloud-Native+Security+%7C+Kubernetes+%7C+eBPF;Azure+%7C+AWS+%7C+GCP;Building+Secure+%26+Scalable+Systems" />
 </p>
-
+![](https://komarev.com/ghpvc/?username=wejdeneh&color=blue)
 <p align="center">
   <a href="https://www.linkedin.com/in/wejdene-hadj-mefteh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>

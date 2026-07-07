@@ -76,9 +76,9 @@ current_focus:
 *Here is a summary of my pushes, pull requests, and overall contributions since I joined GitHub:*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wejdeneh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wejdeneh&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wejdeneh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wejdeneh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Graph

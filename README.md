@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=800&lines=DevSecOps+Engineer;Cloud-Native+Security+%7C+Kubernetes+%7C+eBPF;Azure+%7C+AWS+%7C+GCP;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=0EA5E9&center=true&vCenter=true&width=800&lines=DevSecOps+Engineer;Cloud-Native+Security+%7C+Kubernetes+%7C+eBPF;Azure+%7C+AWS+%7C+GCP;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">

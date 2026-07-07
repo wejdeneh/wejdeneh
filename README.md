@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Wejden Haj Mefteh</h1>
 
 <h3 align="center">
-🔐 DevSecOps & Cloud Security Engineer | Kubernetes | eBPF | Zero Trust
+🔐 DevSecOps & Cloud Security Engineer | Kubernetes | eBPF | 5G Security
 </h3>
 
 <p align="center">
@@ -75,13 +75,11 @@ current_focus:
 
 *Here is a summary of my pushes, pull requests, and overall contributions since I joined GitHub:*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wejdeneh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wejdeneh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wejdeneh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ### 🐍 Contribution Graph
 

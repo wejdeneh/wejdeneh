@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Wejden Haj Mefteh</h1>
 
 <h3 align="center">
-🔐 DevSecOps & Cloud Security Engineer | Kubernetes | eBPF | 5G Security
+🔐 DevSecOps & Cloud Security Engineer | Kubernetes | eBPF | Zero Trust
 </h3>
 
 <p align="center">
@@ -37,3 +37,64 @@ current_focus:
   - CI/CD Security & GitOps
   - Cloud Platforms (Azure, AWS, GCP)
   - CKA + Security+ preparation
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <strong>Cloud & Containers</strong><br/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+</p>
+
+<p align="center">
+  <strong>DevSecOps & CI/CD</strong><br/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/argo%20cd-%23CB3E82.svg?style=for-the-badge&logo=argocd&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<p align="center">
+  <strong>Security Tools & eBPF</strong><br/>
+  <img src="https://img.shields.io/badge/Cilium-%23F0F0F0.svg?style=for-the-badge&logo=Cilium&logoColor=blue" alt="Cilium" />
+  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Trivy-%230A0A0A.svg?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+*Here is a summary of my pushes, pull requests, and overall contributions since I joined GitHub:*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wejdeneh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wejdeneh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wejdeneh/wejdeneh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wejdeneh/wejdeneh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wejdeneh/wejdeneh/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>"Securing the cloud, one container at a time."</i>
+</p>

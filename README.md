@@ -5,19 +5,21 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=800&lines=DevSecOps+Engineer;Cloud-Native+Security+%7C+Kubernetes+%7C+eBPF;Azure+%7C+AWS+%7C+GCP;Building+Secure+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&center=true&vCenter=true&width=800&lines=DevSecOps+Engineer;Cloud-Native+Security+%7C+Kubernetes+%7C+eBPF;Azure+%7C+AWS+%7C+GCP;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/wejdene-hadj-mefteh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:wejdenhadjmefteh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
- 🧠 About Me
+
+## 🧠 About Me
 
 ```yaml
 name: Wejden Haj Mefteh
@@ -27,11 +29,11 @@ location: Nice, France 🇫🇷
 specialization:
   - Cloud-Native Security
   - Kubernetes & eBPF
-  - DevSecOps & Zero Trust
+  - DevSecOps & Zero Trust Architecture
   - Distributed Systems & Observability
 
 current_focus:
   - Kubernetes Security (Cilium, KubeArmor)
-  - CI/CD & GitOps
-  - Cloud (Azure, AWS, GCP)
+  - CI/CD Security & GitOps
+  - Cloud Platforms (Azure, AWS, GCP)
   - CKA + Security+ preparation

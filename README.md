@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Wejden Haj Mefteh</h1>
 
 <h3 align="center">
-🔐 DevSecOps & Cloud Security Engineer | Kubernetes | eBPF | 5G Security
+🔐 DevSecOps & Cloud Security Engineer | Kubernetes | eBPF | CKA | CCA | CCNA | Zero Trust
 </h3>
 
 <p align="center">

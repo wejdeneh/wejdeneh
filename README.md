@@ -33,10 +33,11 @@ specialization:
   - Distributed Systems & Observability
 
 current_focus:
-  - Kubernetes Security (Cilium, KubeArmor)
+  - Kubernetes Security 
   - CI/CD Security & GitOps
   - Cloud Platforms (Azure, AWS, GCP)
-  - CKA + Security+ preparation
+  - CKA
+  - CKS preparation
 ```
 
 ---
